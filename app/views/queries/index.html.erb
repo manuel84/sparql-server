@@ -1,0 +1,15 @@
+<div class="notice">
+  <%= @message %>
+</div>
+<%= form_tag do %>
+    <%= text_area_tag(:query, "Insert SPARQL here", size: "24x6") %>
+    <%= submit_tag 'submit' %>
+<% end %>
+<% if @solutions %>
+    <ul>
+      <% @solutions.each do |solution| %>
+          <li><%= solution.to_hash %></li>
+      <% end %>
+    </ul>
+
+<% end %>

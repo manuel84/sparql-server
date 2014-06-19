@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails sparql-server: development" uuid="d8899ac8-9fcb-49a6-98ab-588e5ca41032">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails sparql-server: test" uuid="64099c6b-f807-4f68-bf49-64bfe4f23415">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails sparql-server: production" uuid="cb74916a-6bd7-426c-bcfb-3bd4a3c589f0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
