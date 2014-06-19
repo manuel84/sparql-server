@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80435eb3-352c-4fed-94da-5d03438b8a76" name="Default" comment="gitignore&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.rspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/rails_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sparql-server.iml" afterPath="" />
+    <list default="true" id="80435eb3-352c-4fed-94da-5d03438b8a76" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="sparql-server.iws" />
@@ -483,7 +479,11 @@
       <created>1403196845196</created>
       <updated>1403196845196</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="gitignore&#10;">
+      <created>1403196916325</created>
+      <updated>1403196916325</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -530,9 +530,9 @@
     <MESSAGE value="root" />
     <MESSAGE value="gitognore" />
     <MESSAGE value="gitognore&#10;" />
-    <MESSAGE value="gitignore&#10;" />
     <MESSAGE value="Übungsblatt 06, Aufgabe 1&#10;Spec-Umgebung integriert" />
-    <option name="LAST_COMMIT_MESSAGE" value="Übungsblatt 06, Aufgabe 1&#10;Spec-Umgebung integriert" />
+    <MESSAGE value="gitignore&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
