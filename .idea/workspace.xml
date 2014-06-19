@@ -1,81 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="80435eb3-352c-4fed-94da-5d03438b8a76" name="Default" comment="gitignore&#10;">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/sparql-server.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+    <list default="true" id="80435eb3-352c-4fed-94da-5d03438b8a76" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.ruby-gemset" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.ruby-version" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.rdoc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/images/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/concerns/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/queries_controller.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/mailers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/concerns/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/queries/index.html.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/bundle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/rails" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/rake" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/spring" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config.ru" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/application.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/boot.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/database.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environment.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/development.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/production.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/inflections.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/mime_types.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/session_store.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/locales/en.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/config/secrets.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/seeds.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/assets/himmelskoerper.rdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/blatt06.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/tasks/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/log/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/404.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/422.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/500.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/robots.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/controllers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/fixtures/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/helpers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/integration/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/mailers/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/models/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/test_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/javascripts/.keep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/assets/stylesheets/.keep" afterPath="" />
     </list>
     <ignored path="sparql-server.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -122,7 +49,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="8" selection-start="474" selection-end="474" vertical-scroll-proportion="0.72148544" vertical-offset="0" max-vertical-offset="377">
+            <state line="16" column="15" selection-start="474" selection-end="474" vertical-scroll-proportion="0.72533333" vertical-offset="0" max-vertical-offset="375">
               <folding />
             </state>
           </provider>
@@ -440,30 +367,34 @@
       <created>1403179160136</created>
       <updated>1403179160136</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="gitignore&#10;">
+      <created>1403179226203</created>
+      <updated>1403179226203</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="696" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294509" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31946754" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294509" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31946754" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294509" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -486,7 +417,8 @@
     <MESSAGE value="root" />
     <MESSAGE value="gitognore" />
     <MESSAGE value="gitognore&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitognore&#10;" />
+    <MESSAGE value="gitignore&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -610,7 +542,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="8" selection-start="474" selection-end="474" vertical-scroll-proportion="0.72148544" vertical-offset="0" max-vertical-offset="377">
+        <state line="16" column="15" selection-start="474" selection-end="474" vertical-scroll-proportion="0.72533333" vertical-offset="0" max-vertical-offset="375">
           <folding />
         </state>
       </provider>
