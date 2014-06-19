@@ -67,4 +67,23 @@ class Blatt06
     solutions = QUERYABLE.query(sparql)
   end
 
+  # Himmelskörper, die keinen Satelliten haben
+  # <=> alles was Namen oder Radius hat = Himmelskörper (bzw. alle Subjects)
+  def self.aufgabe4
+    str = "
+      PREFIX ex: <http://example.org/>
+      SELECT DISTINCT ?object WHERE
+      {
+        { ?object ex:radius ?radius . }
+        UNION
+        { ?object ex:name ?name . }
+        OPTIONAL { ?object ex:satellit ?satellit }
+        FILTER (!bound(?satellit))
+      }
+"
+    sparql = SPARQL.parse(str)
+    solutions = QUERYABLE.query(sparql)
+  end
+
+
 end

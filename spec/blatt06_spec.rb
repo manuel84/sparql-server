@@ -23,8 +23,13 @@ describe 'Blatt06' do
     expect(Blatt06.aufgabe1c.map { |sol| sol.name.to_s }).to eql(expected_objects)
   end
 
-  it 'should return english named satellites with parent object over 3000 km radius' do
+  it 'should return objects with more than one satellite' do
     expected_objects = %w(Sonne Mars).map { |s| "http://example.org/#{s}"}
     expect(Blatt06.aufgabe1d.map { |sol| sol.object.to_s }).to eql(expected_objects)
+  end
+
+  it 'should return objects with no satellite' do
+    expected_objects = %w(Merkur Venus Mond Phobos Deimos).map { |s| "http://example.org/#{s}"}
+    expect(Blatt06.aufgabe4.map { |sol| sol.object.to_s }).to eql(expected_objects)
   end
 end
